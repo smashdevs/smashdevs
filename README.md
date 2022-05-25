@@ -70,7 +70,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=smashdevs&repo=LuanderFarias&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=smashdevs&repo=smashdevs&theme=tokyonight">
     </img>
   </a>
 </p>
