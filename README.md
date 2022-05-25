@@ -33,7 +33,7 @@
 <h4 align="center">
 <details>
 <summary>Mais...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá, SmashDevs</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Olá, SmashDevers</h1></img>
 
 <p align="center">
   <a href="https://github.com/smashdevs">
@@ -70,7 +70,7 @@
     <img
       align="center"
       height="120em"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=smashdevs&repo=smashdevs&theme=tokyonight">
+      src="https://github-readme-stats.vercel.app/api/pin/?username=smashdevs&repo=smashdevs-hot-site&theme=tokyonight">
     </img>
   </a>
 </p>
